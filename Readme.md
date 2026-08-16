@@ -1,6 +1,6 @@
 # Hi there, I'm Shashikant Tyagi 👋
 
-## 🚀 DevOps & Cloud Engineer
+## 🚀 DevSecOps & Cloud Engineer
 
 Passionate about Cloud Computing, Infrastructure Automation, and DevOps practices. I enjoy building scalable, secure, and automated cloud solutions using Azure and Terraform.
 
